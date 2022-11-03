@@ -1,1 +1,5 @@
-# react-template
+
+项目主要依赖包版本：
+
+> Node.js 18.12.0
+>
